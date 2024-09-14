@@ -32,7 +32,7 @@ Step-by-step instructions to install and set up your project locally.
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/projectname.git
+    git clone https://github.com/aminakm123/social-network.git
     ```
 2. Create and Activate Virtual Environment
      ```bash
