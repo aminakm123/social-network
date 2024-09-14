@@ -8,8 +8,6 @@ This is a social networking API built using Django Rest Framework (DRF) with fun
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -69,11 +67,6 @@ python manage.py migrate  # Run database migrations
 python manage.py createsuperuser  # Create a new superuser for Django
 python manage.py runserver  # Start the development server
 ```
-
-- Django: Backend web framework
-- Django Rest Framework (DRF): For building the REST API
-- SQLite: Database 
-- Docker: Containerization of the application
 
 ## API Endpoints
 
